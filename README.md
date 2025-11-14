@@ -1,4 +1,4 @@
-## Decisions  
+## Yet Another Pong Clone  
 ![cover.png](https://raw.githubusercontent.com/aussie114/yet_another_pong_clone/refs/heads/master/screenshots/cover.png)  
 Play it here https://aussie114.itch.io/yet-another-pong-clone  
 
